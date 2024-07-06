@@ -61,9 +61,9 @@ MASTIX ALM Studio is versatile in both data consumption and result delivery. Its
 </p>
 
 
-### Adjoint Algorithmic Differentiation
+### Algorithmic Differentiation
 
-MASTIX ALM Studio is powered by a cutting-edge framework for Adjoint Algorithmic Differentiation (AAD). AAD is an innovative method for efficiently computing sensitivities, especially suited for high-dimensional problems such as those arising in banking and finance. For more detailed information, see our [Introduction to Adjoint Algorithmic Differentiation](https://github.com/mastixstudio/mastixstudio/blob/main/IntroductionToAAD.md).
+MASTIX ALM Studio is powered by a cutting-edge framework for Algorithmic Differentiation (AAD). AD is an innovative method for efficiently computing sensitivities, especially suited for high-dimensional problems such as those arising in banking and finance. For more detailed information, see our [Introduction to Algorithmic Differentiation](https://github.com/mastixstudio/mastixstudio/blob/main/IntroductionToAAD.md).
 
 ## Notebooks
 
